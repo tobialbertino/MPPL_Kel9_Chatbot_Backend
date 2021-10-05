@@ -1,0 +1,33 @@
+version: "2.0"
+
+stories:
+
+- story: sapaan
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: tanya fakultas
+  steps:
+  - intent: fakultas
+  - action: utter_fakultas
+  - action: utter_tawaran_bantuan
+  - intent: deny
+  - action: utter_goodbye
+
+- story: tanya rektor
+  steps:
+  - intent: rektor
+  - action: utter_rektor
+  - action: utter_tawaran_bantuan
+  - intent: deny
+  - action: utter_goodbye
+
+- story: tanya maps
+  steps:
+  - intent: ipb_maps
+  - action: utter_ipb_maps
+  - action: utter_tawaran_bantuan
+  - intent: deny
+  - action: utter_goodbye
+
