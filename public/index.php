@@ -58,7 +58,7 @@ $app->post('/webhook', function (Request $request, Response $response) use ($cha
             if ($event['type'] == 'message') {
                 //reply message
                 if ($event['message']['type'] == 'text') {
-                    if (strtolower($event['message']['text']) == 'user id') {
+                    if (trim(strtolower($event['message']['text'])) == 'user id') {
 
                         $result = $bot->replyText($event['replyToken'], $event['source']['userId']);
 
