@@ -1,0 +1,65 @@
+{
+      "type": "carousel",
+      "columns": [
+        {
+          "thumbnailImageUrl": "https://scontent.fcgk8-2.fna.fbcdn.net/v/t39.30808-6/262673094_4605293222925297_6068489722397966916_n.jpg?_nc_cat=102&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeH5y-nbe6JR1txVrrLCvRMYoAMTmuQCPsSgAxOa5AI-xEZZKyaSlxnQA1kSejkN3Q-8k2bxvWPPxGbcN5U2mE07&_nc_ohc=M_FyabTPb0kAX8Qdm13&_nc_zt=23&_nc_ht=scontent.fcgk8-2.fna&oh=c6901b9d836cc84875b86bcd146868ee&oe=61ACF8FE",
+          "title": "Student Portal IPB",
+          "text": "Platform digital yang membantu mahasiswa dengan banyak fitur",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Selengkapnya",
+              "uri": "https://studentportal.ipb.ac.id/"
+            }
+          ]
+        },
+        {
+          "thumbnailImageUrl": "https://scontent.fcgk9-2.fna.fbcdn.net/v/t39.30808-6/261657569_4605335419587744_6178478080214603650_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFZploJ9sywWpcpTPbaTH62hDitFuMLRDWEOK0W4wtENY-VvDwnS0tuMWHMHp9PDbacN4ZJvln-CuxdEDioShpt&_nc_ohc=fJu41VH1OK0AX9qgmqL&_nc_zt=23&_nc_ht=scontent.fcgk9-2.fna&oh=af759f9d6227723de89d5db53180d225&oe=61AD490D",
+          "title": "Student Service Centre (SSC)",
+          "text": "Platform untuk mengelola berbagai layanan mahasiswa",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Selengkapnya",
+              "uri": "https://ssc.ipb.ac.id/"
+            }
+          ]
+        },
+        {
+          "thumbnailImageUrl": "https://scontent.fcgk8-1.fna.fbcdn.net/v/t39.30808-6/261841581_4605401079581178_2032043082281115718_n.jpg?_nc_cat=100&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGBr6XLEh0au_5CmQPkpUIOMVUoAgY0z00xVSgCBjTPTTasQ_P1_xWLlgU8pTS5m1j6wd2qPx1GMDKol2y4WZTC&_nc_ohc=8ajldV76E5QAX_62MWC&_nc_zt=23&_nc_ht=scontent.fcgk8-1.fna&oh=87406bb228a1dd8609ed2b77e8468587&oe=61AC41DE",
+          "title": "Admisi IPB",
+          "text": "Platform untuk penerimaan mahasiswa baru",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Selengkapnya",
+              "uri": "https://admisi.ipb.ac.id/"
+            }
+          ]
+        },
+        {
+          "thumbnailImageUrl": "https://scontent.fcgk8-1.fna.fbcdn.net/v/t39.30808-6/261657726_4605505072904112_7245100546840884420_n.jpg?_nc_cat=108&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeG6P1R3VURlaRk_n_Ev-QmJ6MH0vWbTWmvowfS9ZtNaa7fq2ypbrJmv_sNYu3VU7CrUuzAToZh6zvJ0k-JYIcCR&_nc_ohc=3yUYfyG9o6MAX9Zj4V8&_nc_zt=23&_nc_ht=scontent.fcgk8-1.fna&oh=ff207b30acd911527b3488150f3d8005&oe=61AD00E2",
+          "title": "Help Center IPB",
+          "text": "Platform pengaduan masalah melalui tiket",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Selengkapnya",
+              "uri": "https://helpcenter.ipb.ac.id/"
+            }
+          ]
+        },
+        {
+          "thumbnailImageUrl": "https://scontent.fcgk9-1.fna.fbcdn.net/v/t39.30808-6/261778708_4605511296236823_2209662000978614833_n.jpg?_nc_cat=105&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeE3mHlpTVkX0p0uv3tOoDnle_RrxobZBdN79GvGhtkF0ymbiisRBA4uEiQT8Wnu3pL0AWWPbL5Oiwk-cDtLSZaO&_nc_ohc=NYVrQKFRr-gAX8Ipzon&_nc_oc=AQlPBB6Q4jdVuwEXa16p2xGPipFxHt2X5ZskVwKuPyK1ZzFwiOnagT167TbT12QjBK4&_nc_zt=23&_nc_ht=scontent.fcgk9-1.fna&oh=0ad560028f2746bed8e56dc2d046dd84&oe=61ABA863",
+          "title": "IPB Repository",
+          "text": "Sistem untuk mengelola karya ilmiah sivitas IPB",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Selengkapnya",
+              "uri": "https://repository.ipb.ac.id/"
+            }
+          ]
+        }
+      ]
+  }
