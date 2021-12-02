@@ -7,6 +7,15 @@ Projek MPPL Praktikum 1 Kelompok 9: Expert System - Chatbot Customer Service (Ba
 ## Tech Stack
 This project uses the PHP programming language and is deployed using Heroku
 
+
+# Developer Beserta Job Desc
+
+* Ervina Maharani (G64180011) - System Analyst
+* Feby Ardiansyah (G64180059) - Project Manager
+* Muhamad Khoiru Tobi A (G64180065) - Front-End Developer
+* Fransiscus Prihandisha (G64180081) - UI/UX Designer
+* Ahmad Tedy Murtadho (G64180082) - Back-End Developer
+
 # Deskripsi Singkat Aplikasi
 
 IPB Chatbot atau Ibot yang merupakan sebuah aplikasi Chatbot yang terintegrasi dengan instant messenger populer, yakni LINE Messenger, dan dapat membantu mahasiswa serta calon mahasiswa IPB dalam mencari informasi seputar kampus IPB dengan lebih mudah.
