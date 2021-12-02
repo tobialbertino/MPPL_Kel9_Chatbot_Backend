@@ -1,0 +1,66 @@
+{
+      "type": "carousel",
+      "columns": [
+        {
+          "thumbnailImageUrl": "https://myaccount.ecosim.hu/data/competitions/140/card_140.jpg",
+          "title": "Business Simulation Competition",
+          "text": "Kompetisi bisnis Internasional yang diselenggaran oleh NIBS",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Info Lomba",
+              "uri": "https://nibs.ecosim.hu/competition"
+            }
+          ],
+          "imageBackgroundColor": "#FFFFFF"
+        },
+        {
+          "thumbnailImageUrl": "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE1L2UzNS8yNjA5MjI2MzlfMTAxMzQwNTM0OTUwODIzNV8yNDQ2Mzk3NDk1NjAxNDkyMTcxX24uanBnP19uY19odD1zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbSZfbmNfY2F0PTExMSZfbmNfb2hjPURUSVlCcnJ3a1hBQVg5NUdfX0QmZWRtPUFKQmdacllCQUFBQSZjY2I9Ny00Jm9oPWU3ZmQzYzM1YjNkNDZhZmU0MjU4NzFlYmQwYzM1ZWRmJm9lPTYxQUU1ODlEJl9uY19zaWQ9NzhjNjYy",
+          "title": "Lomba Esai Nasional Kearsipan MRA UI",
+          "text": "kompetisi karya tulis dalam bentuk esai ilmiah",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Info Lomba",
+              "uri": "https://drive.google.com/file/d/13QgygJpA0QfcCfRxGSwQwUnZglrhXKCQ/view"
+            }
+          ]
+        },
+        {
+          "thumbnailImageUrl": "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE1L2UzNS8yNTg4MDM3MjdfNjcyMTUxODczNzU2NjUzXzIyODgxNDU4MzM1NjM1MDI5MjRfbi5qcGc/X25jX2h0PXNjb250ZW50LWlhZDMtMS5jZG5pbnN0YWdyYW0uY29tJl9uY19jYXQ9MTA5Jl9uY19vaGM9TVltb2kxTEdpNEFBWDlRdGxUSCZlZG09QUpCZ1pyWUJBQUFBJmNjYj03LTQmb2g9MDVmOWNjMDQyY2I5MDE5YzQ3MTBiNWVlYTRiZDc0MzAmb2U9NjFBRTI1REUmX25jX3NpZD03OGM2NjI=",
+          "title": "Pekan Apresiasi IPB 2021",
+          "text": "Special gues star \"Juicy Luicy\" pada main event PAPRESI 2021",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Info Event",
+              "uri": "https://www.instagram.com/pekanapresiasiipb/"
+            }
+          ]
+        },
+        {
+          "thumbnailImageUrl": "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9zY29udGVudC1pYWQzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE1L2UzNS9wMTA4MHgxMDgwLzI0ODcxMTY2MF82MjI0Mzg0MDIyNjAwNzZfOTE2ODEwNjQyNDk2MDU0OTc5Nl9uLmpwZz9fbmNfaHQ9c2NvbnRlbnQtaWFkMy0xLmNkbmluc3RhZ3JhbS5jb20mX25jX2NhdD0xMDQmX25jX29oYz1yVlRyUVhESmVOd0FYOEpZeG1VJmVkbT1BSkJnWnJZQkFBQUEmY2NiPTctNCZvaD0yYjVlMWViYjQ5NmU2MmU4YThkOTViOGE0OTM2M2I0NyZvZT02MUFEQTlDOCZfbmNfc2lkPTc4YzY2Mg==",
+          "title": "Hari Puncak GENUS 2021",
+          "text": "Menyuguhkan berbagai penampilan-penampilan keren",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek info Event",
+              "uri": "https://www.instagram.com/p/CVZyKJdPz_x/?utm_medium=copy_link"
+            }
+          ]
+        },
+        {
+          "thumbnailImageUrl": "https://fetchnow.herokuapp.com/media?id=aHR0cHM6Ly9zY29udGVudC1pYWQzLTIuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE1L2UzNS8yNTIyMjM4MjVfMjUxMjY4NTYwMzYyNTYxXzQ4NTMxNzc0MDUxNjUwNTQ1MDVfbi5qcGc/X25jX2h0PXNjb250ZW50LWlhZDMtMi5jZG5pbnN0YWdyYW0uY29tJl9uY19jYXQ9MTAxJl9uY19vaGM9OXdDaTBxR1hWb1VBWDhIVFpSMiZlZG09QUpCZ1pyWUJBQUFBJmNjYj03LTQmb2g9NmVjM2Q3ZjM5YThlMzhmMjMxNjBhMWZiYjU3NDc2ZjYmb2U9NjFBREMzRTQmX25jX3NpZD03OGM2NjI=",
+          "title": "HIMATRI Cup E-Sports 2021",
+          "text": "Kompetisi E-Sport (PUBG Mobile dan Mobile Legends)",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "Cek Info Lomba",
+              "uri": "https://docs.google.com/forms/d/e/1FAIpQLSdFgXrHX2IUqFO55eIm6p3fr29ab_u93-DD6Z_Iji4LwxWmbQ/viewform"
+            }
+          ]
+        }
+      ]
+  }

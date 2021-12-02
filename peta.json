@@ -1,0 +1,20 @@
+{
+      "type": "buttons",
+      "thumbnailImageUrl": "https://ipb.ac.id/media/images/peta-ipb.jpg",
+      "imageSize": "contain",
+      "imageBackgroundColor": "#FFFFFF",
+      "title": "IPB Maps",
+      "text": "Peta yang ditampikan merupakan peta kampus IPB Dramaga",
+      "actions": [
+        {
+          "type": "uri",
+          "label": "Lihat gambar peta",
+          "uri": "https://ipb.ac.id/media/images/peta-ipb.jpg"
+        },
+        {
+          "type": "uri",
+          "label": "Google Maps",
+          "uri": "https://www.google.com/maps/place/IPB+University/@-6.5540699,106.7234745,15z/data=!4m5!3m4!1s0x0:0x533530000f77bc38!8m2!3d-6.5540699!4d106.7234745"
+        }
+      ]
+  }
